@@ -26,6 +26,6 @@
 
 ## What while I find here ?
 
-At the moment, this Github repository is destined for *user documentation*, that can be find here : https://github.com/Arma-TCL-TypeX/TCL-TypeX/wiki
+At the moment, this Github repository is destined for *user documentation*, that can be found here : https://github.com/Arma-TCL-TypeX/TCL-TypeX/wiki
 
 For discussion and script downloading, please go to the thread on bohemia forum : https://forums.bohemia.net/forums/topic/221659-tactical-combat-link-typex/
