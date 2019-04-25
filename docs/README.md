@@ -28,4 +28,4 @@
 
 At the moment, this Github repository is destined for *user documentation*.
 
-For discussion and script downloading, please go to the thread on bohemia forum : https://forums.bohemia.net/forums/topic/221659-tactical-combat-link-typex/
+For discussion and script downloading, please go to the original thread on bohemia forum : (https://forums.bohemia.net/forums/topic/221659-tactical-combat-link-typex/)
