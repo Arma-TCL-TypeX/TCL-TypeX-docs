@@ -24,8 +24,8 @@
 >
 >Tactical Combat Link has been optimized by using some of the latest coding and syntax optimizations to provide solid and lag free missions.
 
-## What while I find here ?
+## What will I find here ?
 
-At the moment, this Github repository is destined for *user documentation*.
+At the moment, this Github repository is destined for *user documentation*. **See the [wiki](https://github.com/Arma-TCL-TypeX/TCL-TypeX/wiki)**
 
 For discussion and script downloading, please go to the original thread on bohemia forum : (https://forums.bohemia.net/forums/topic/221659-tactical-combat-link-typex/)
