@@ -1,6 +1,6 @@
-# T.C.L TypeX
+# T.C.L TypeX documentation
 
-## What is it ?
+## What is T.C.L. TypeX ?
 
 *Tactical Combat Link is an [Arma 3](http://www.arma3.com) AddOn written and maintained by* snkman, *one of the veteran coders of the community. From [the original thread](https://forums.bohemia.net/forums/topic/221659-tactical-combat-link-typex/) on bohemia forums* :
 
