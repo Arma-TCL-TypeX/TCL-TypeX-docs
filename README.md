@@ -1,4 +1,4 @@
-# T.C.L TypeX documentation
+# T.C.L. TypeX documentation
 
 ## What is T.C.L. TypeX ?
 
